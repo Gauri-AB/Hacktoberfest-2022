@@ -14,7 +14,7 @@
   </head>
   <body>
   <?php
-require'/xampp/htdocs/project/php/loginsystem/nav.php';
+require'path';
 
   ?>
     
